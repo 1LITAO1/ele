@@ -1,0 +1,14 @@
+*{padding: 0;margin: 0;}
+a{text-decoration: none;color: #333}
+ul>li{list-style: none;}
+i{font-style: normal}
+img{display: block}
+body,html{
+    width: 100%;
+    height: 100%;
+}
+.omit{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
